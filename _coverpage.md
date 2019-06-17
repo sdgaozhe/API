@@ -7,3 +7,4 @@
 * 伯爵API拥有所有运行权,管理员邮箱fovegage@gmail.com
 
 
+[Get Started](#quick-start)
