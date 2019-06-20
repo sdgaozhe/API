@@ -7,4 +7,4 @@
 * BoJue API 拥有所有运行权,管理员邮箱 fovegage@gmail.com
 
 
-[Get Started](#bojueapi)
+[开始调用](#bojueapi)
